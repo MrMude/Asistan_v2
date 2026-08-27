@@ -1,0 +1,10 @@
+[
+  {
+    "id": "usr-admin",
+    "username": "admin",
+    "password": "0000",
+    "name": "Muharrem DELİKTAŞ",
+    "role": "admin",
+    "status": "approved"
+  }
+]

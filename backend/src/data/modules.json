@@ -1,0 +1,22 @@
+[
+  {
+    "id": "asakai",
+    "label": "Asakai Toplantısı"
+  },
+  {
+    "id": "iyilestirme",
+    "label": "İyileştirme Toplantısı"
+  },
+  {
+    "id": "kalite_guvence",
+    "label": "Kalite Güvence"
+  },
+  {
+    "id": "kalite_kontrol",
+    "label": "Kalite Kontrol"
+  },
+  {
+    "id": "tedarik_kalite",
+    "label": "Tedarik Kalite"
+  }
+]

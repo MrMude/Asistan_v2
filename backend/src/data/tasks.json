@@ -1,0 +1,2098 @@
+[
+  {
+    "id": "kit-1",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-001",
+    "baslik": "QC Etiketleri",
+    "sorumlu": "Atanmadı",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "",
+    "bitisTarihi": "2026-06-01",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-1-st1",
+        "text": "01.06.2026 tarihinde sipariş verilecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-2",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-002",
+    "baslik": "İstasyon Kontrol & Quality Gate oluşturulması",
+    "sorumlu": "Kahan YILMAZMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "2026-06-26",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-2-st1",
+        "text": "Kahan Beyde çalıştırma oluşturdu. İlk hafta kullanımı gözlemlenecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-2-st2",
+        "text": "Doğukanın oluşturduğu istasyon talimatları sisteme eklenecektir.( Eklendi )",
+        "done": true
+      },
+      {
+        "id": "kit-2-st3",
+        "text": "Kontrol formları kontrol edilecektir ve işleme alınacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-3",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-003",
+    "baslik": "Kormetal ( Jant Tedarikçi Firması )",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-3-st1",
+        "text": "02.06.2026 tarihinde mail atılacaktır. Akış hakkında bilgi alınacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-3-st2",
+        "text": "02.06.2026 Tarihinde hatırlatma maili atıldı.",
+        "done": true
+      },
+      {
+        "id": "kit-3-st3",
+        "text": "Etiket konusu ve görsel kontrol kriterleri belirlendi.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-4",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-004",
+    "baslik": "Kompanent Test Masası",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "2026-06-26",
+    "bitisTarihi": "",
+    "durum": "beklemede",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-4-st1",
+        "text": "Kompanent test masası balçığa gönderilecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-4-st2",
+        "text": "İdari işler grubuna yazalım ve kamyon gelince dürtelim",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-5",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-005",
+    "baslik": "Boyahane süreci geliştirmesi",
+    "sorumlu": "Şenol ÖZCANLI",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "beklemede",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-5-st1",
+        "text": "Şenol Bey'le kontrol kriterleri belirlenecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-5-st2",
+        "text": "Boyahaneye dair tüm dokümantasyonlar oluşturulmalı. Görselli talimatlar, vs.Şenol süreci ilerlettiğinde tekrar açılacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-6",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-006",
+    "baslik": "Aylin Hanım ( Yapıştırma Mühendisi )",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-6-st1",
+        "text": "Uçak bileti alınacaktır. 08.06.2026 tekrar görüşülecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-7",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-007",
+    "baslik": "Basf Eftec İle görüşülecektir.",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-7-st1",
+        "text": "Yapıştırmalar hakkında bilgi alınacaktır. Saklama şartları vb.",
+        "done": true
+      },
+      {
+        "id": "kit-7-st2",
+        "text": "Abdulsamet Bey'le görüşme sağlandı. Firma ziyareti organize edilecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-7-st3",
+        "text": "Astarlı test plakası numunesi hazırlanacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-7-st4",
+        "text": "09.06.2026 tarihinde ziyarete gelecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-8",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-008",
+    "baslik": "Kalite Güvence Geliştirmesi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-27",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-8-st1",
+        "text": "23. Hafta araç kontrol formları sisteme eklenecektir. İlk çıkan araçların formları taranıp klasörü belirlenecektir.23. Hafta Kalite Kontrol24. Hafta Satınalma - Lojistik24. Hafta Planlama ve Depolama25. Hafta Üretim26. Hafta Satış - Pazarlama - Satış Sonrası Hizmetler27. Hafta Mühendislik",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-9",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-009",
+    "baslik": "ERP İzinlerin Girişi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "",
+    "bitisTarihi": "2026-06-01",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-9-st1",
+        "text": "İzinli personellerin izin girişleri yapılacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-10",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-010",
+    "baslik": "COP Evrakları Hk.",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "2026-06-26",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-10-st1",
+        "text": "Onur Bey'e yazıldı. Süreç ilerledikçe bilgi verilecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-10-st2",
+        "text": "Onur Bey inceleyip dönüş sağlayacak. Haftaya tekrar hatırlatılacaktır.COP Eğitimi planlanabilir.Aşağıda güncel konular açılmıştır. 07.07.2026",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-11",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-011",
+    "baslik": "Asil Kataforez Ziyareti Hk.",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "",
+    "bitisTarihi": "2026-06-01",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-11-st1",
+        "text": "• Kataforez kaplama süreci ile ilgili ziyaret yapılacaktır.• Ziyaret gerçekleştirildi. Aksiyon uygulama maili gelecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-11-st2",
+        "text": "Üretim çıktıları beklenmektedir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-12",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-012",
+    "baslik": "Boyahane, End Of Line, Balçık Depo Süreç Takibi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "",
+    "bitisTarihi": "2026-06-01",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-12-st1",
+        "text": "Taslak oluşturuldu. Günlük mail atılacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-12-st2",
+        "text": "02.06.2026 toplantısı yapıldıı, bu şekilde devam edecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-13",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-013",
+    "baslik": "Gapster (SSH)",
+    "sorumlu": "Atanmadı",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "",
+    "bitisTarihi": "2026-06-01",
+    "durum": "iptal",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-13-st1",
+        "text": "Servis süreçlerinin takibi için adım eklenecektir. Birçim ve satış sonrası ekibiyle görüşülecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-14",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-014",
+    "baslik": "Uygunsuzluk Takibi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-01",
+    "vade": "",
+    "bitisTarihi": "2026-06-02",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-14-st1",
+        "text": "54 No'lu aracın sağ arka fren borusu ve fren hortumu birleşim yerinden hidrolik kaçağı tespit edildi. Şasi montajında ya tam değerlerde torklama işlemi yapılmadı ya da boruda deforme mevcut kontrol edilip bilgi verilecek.",
+        "done": true
+      },
+      {
+        "id": "kit-14-st2",
+        "text": "Murat Bey'le görüşme sağlanmıştır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-15",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-015",
+    "baslik": "Atık Kutusu",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-02",
+    "vade": "2026-06-26",
+    "bitisTarihi": "",
+    "durum": "iptal",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-15-st1",
+        "text": "https://teknikkonteyner.com.tr/urun/240-lt-pedalli-plastik-cop-konteyneri-40",
+        "done": true
+      },
+      {
+        "id": "kit-15-st2",
+        "text": "2 Adet sipariş verilecektir.Burak Bey ve Ömer Bey'e mail atılmıştır. Burak Bey şubeye geldiğinde bakılacaktır. ( Chimerecten fiyat teklifi alındı dönüş beklenmektedir.)",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-16",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-016",
+    "baslik": "Kimyasal ve Son Kullanım Tarihi Olan Ürünler",
+    "sorumlu": "Sennur Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-02",
+    "vade": "2026-06-26",
+    "bitisTarihi": "",
+    "durum": "iptal",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-16-st1",
+        "text": "Ürünlere ait liste oluşturulacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-16-st2",
+        "text": "Sennur Hanım ve Ozan Bey'den liste istenmiştir.",
+        "done": true
+      },
+      {
+        "id": "kit-16-st3",
+        "text": "Dolap siparişi için Ömer'e mail atıldı.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-17",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-017",
+    "baslik": "Sibop Montajı",
+    "sorumlu": "-",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-03",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-17-st1",
+        "text": "Kormetalden gelecek jantlarda sibop montajı ve testleri belirlenmelidir.",
+        "done": true
+      },
+      {
+        "id": "kit-17-st2",
+        "text": "Aletlerin siparişi verilmiştir. Teslimatı beklenmektedir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-18",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-018",
+    "baslik": "Şasi Kritik Bölge Formu",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-03",
+    "vade": "",
+    "bitisTarihi": "2026-06-10",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-18-st1",
+        "text": "Cemre Hanım'la görüşülerek form oluşturulacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-18-st2",
+        "text": "Murat Bey formu oluşturdu sisteme eklenecektir.Form Hikmet Ustaya teslim edildi.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-19",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-019",
+    "baslik": "Cam Serigrafi Hatası",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-03",
+    "vade": "2026-06-26",
+    "bitisTarihi": "",
+    "durum": "iptal",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-19-st1",
+        "text": "Tedarikçiye mail atılmıştır.",
+        "done": true
+      },
+      {
+        "id": "kit-19-st2",
+        "text": "Dönüş beklenmektedir.Dönüş gelmediği için iptal edilmiştir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-20",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-020",
+    "baslik": "Müşteri Hata Bildirimi – Analiz Formu",
+    "sorumlu": "Emir KÜÇÜKMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-03",
+    "vade": "",
+    "bitisTarihi": "2026-06-04",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-20-st1",
+        "text": "N7V1K1SA1TK000043 hata analiz formu açıldı. Yasir Beylerle görüşüp doldurulacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-20-st2",
+        "text": "Gökhan Bey formu doldurdu",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-21",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-021",
+    "baslik": "Bounder Eğitimi Hk.",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-03",
+    "vade": "",
+    "bitisTarihi": "2026-06-04",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-21-st1",
+        "text": "Kiwaya mail atıldı. Dönüş beklenmektedir.",
+        "done": true
+      },
+      {
+        "id": "kit-21-st2",
+        "text": "Firma ziyareti gerçekleştirildi.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-22",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-022",
+    "baslik": "Kilit Testi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-04",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-22-st1",
+        "text": "Kapı Kilit Modülleri Test edilecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-22-st2",
+        "text": "Cihazda 4 adet test edildi. Cihaz kitlediği için kendini test edemiyoruz.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-23",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-023",
+    "baslik": "Yapıştırma Testi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-04",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-23-st1",
+        "text": "60 numaralı araçta cam maskelenerek yapıştırılmıştır. 7,5mm genişlik.61 numaralı araçta cam maskelenerek yapıştırılacaktır. 6 mm genişlik",
+        "done": true
+      },
+      {
+        "id": "kit-23-st2",
+        "text": "Camlardan kaçırma gözlemlenmemiştir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-24",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-024",
+    "baslik": "Ürün Ömür Testi",
+    "sorumlu": "Gökhan KONUK",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-05",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "iptal",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-24-st1",
+        "text": "Ürünlerin ömür testi için fiyat teklifi alınacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-24-st2",
+        "text": "Gökhan Bey teklif alacaktır.Cemre Hanım'a mail atıldı.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-25",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-025",
+    "baslik": "Yapıştırma Alanı",
+    "sorumlu": "Atanmadı",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-05",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "iptal",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-25-st1",
+        "text": "Yapıştırma alanı yaratılması hakkında mail atılacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-25-st2",
+        "text": "Ömer Bey'in ilettiği aksiyonlar öncelikli olarak yapılacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-26",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-026",
+    "baslik": "Mühendislik Değişiklik Yönetimi",
+    "sorumlu": "Doğukan TOKAYAdem YILMAZZOBU",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-05",
+    "vade": "",
+    "bitisTarihi": "2026-06-05",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-26-st1",
+        "text": "Süreç için form hazırlanacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-26-st2",
+        "text": "Form mail atıldı.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-27",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-027",
+    "baslik": "Yapıştırma İyileştirmeleri",
+    "sorumlu": "Muharrem DELİKTAŞDoğukan TOKAYAdem YILMAZZOBU",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-27-st1",
+        "text": "Ömer Beyden gelen dönüş yandaki gibidir.",
+        "done": true
+      },
+      {
+        "id": "kit-27-st2",
+        "text": "Plastik – Plastik yapışma yüzeylerine astar uygulamak ( Uygulama bugünden itibaren devreye alındı, yüzey gerilimleri kontrol edilmesi gerekecektir. )",
+        "done": true
+      },
+      {
+        "id": "kit-27-st3",
+        "text": "Henkele ilgili parçalardan numune verip, yapışma testlerini gerçekleştirmesini sağlamak, ( Firma temsilcimizi öğrendikten sonra süreci orayla da devam ettirebiliriz ? )",
+        "done": true
+      },
+      {
+        "id": "kit-27-st4",
+        "text": "Primerin kullanımdan önce çalkalanması operatörün insiyatifine bırakılıyor. Primer çalkalanmazsa büyük risk. Çalkalanmasını sağlayacak basit bir shaker alınması ( Murat Bey’le görüşüldü çalışmasını yürütüyor. )",
+        "done": true
+      },
+      {
+        "id": "kit-27-st5",
+        "text": "Yapıştırma alanı çok pis. Alanın kapatılması öncesinde alandaki kimyasalların, atıkları, yapıştırma alanının temizlenmesini sağlamak ve operatörlerin düzenli çalışmasını sağlamak, 5S yapmak bence öncelikli,( Alan temizliği için Kahan Bey’le görüşüldü. Kimyasal atıkları için şu an firmamızda atık toplama yeri temin edemiyoruz, çözüm için bir yol bulmaya çalışacağız. )",
+        "done": true
+      },
+      {
+        "id": "kit-27-st6",
+        "text": "Yüzey gerilimini ölçen sıvıların aralıklı olarak günlük operasyonda, operatörler tarafından tanımlı adetlerde uygulanmasını sağlamak. ( Astar çalışması için gerektiğinden devreye alınacaktır. )",
+        "done": true
+      },
+      {
+        "id": "kit-27-st7",
+        "text": "Yapışma sonrası ilgili tutma kuvvetinin parçanın özellikle tutunmanın en zor olduğu kısımlarında (uçlarda) sağlandığından emin olmak ( Süreç içerisinde iyileştirme çalışmalarıyla raporlanarak ilerletilecektir. )",
+        "done": true
+      },
+      {
+        "id": "kit-27-st8",
+        "text": "Yapıştırma fisktürlerinin ergonomisi ve yapışma yüzeylerini tutmasından emin olmak, ( Süreç içerisinde uzun gözlemler sonucu raporlanarak iletilecektir. )",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-28",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-028",
+    "baslik": "Başkent Cam Çalışma Süreci",
+    "sorumlu": "Orkun ERDOĞAN",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-09",
+    "vade": "2026-06-30",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-28-st1",
+        "text": "Orkun Bey firma ile görüşme sağlayacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-28-st2",
+        "text": "Mail adresleri ve telefonları iletildi.",
+        "done": true
+      },
+      {
+        "id": "kit-28-st3",
+        "text": "19.06 teklif dönüş hedef tarihi.",
+        "done": true
+      },
+      {
+        "id": "kit-28-st4",
+        "text": "22.06 Teklif karşılaştırma ve direction seçimi yapılması ( Telefon edildi süreç devam ediyor..)07.07.2026 güncel konu açılmıştır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-29",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-029",
+    "baslik": "Basf Eftect Test Numunesi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-08",
+    "vade": "2026-07-08",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-29-st1",
+        "text": "2 farklı astardan numune hazırlanarak Eftect firmasına gönderilecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-29-st2",
+        "text": "Test numuneleri teslim edilmiştir.Firmaya mail atılacaktır.Hatırlatma yapıldı.(20.07.2026)Test sonuçları gelmiştir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-30",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-030",
+    "baslik": "Henkel Yapıştırıcı Çalışmaları",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-16",
+    "vade": "2026-06-26",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-30-st1",
+        "text": "Teroson PU 8590 ve Teroson PU 8599 test numunesi hazırlanarak tedarikçiye test için verilecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-30-st2",
+        "text": "Firma ziyareti beklenmektedir.18.06.2026 tarihinde gelecekler.Detaylar mail atıldı.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-31",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-031",
+    "baslik": "38 Numaralı Araç Tamiri",
+    "sorumlu": "Muharrem DELİKTAŞÜretim",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-10",
+    "vade": "",
+    "bitisTarihi": "2026-06-12",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-31-st1",
+        "text": "Aracın tavanının sökülmesi hakkında çalışma yapılacaktır.Cam sökümü yapılacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-31-st2",
+        "text": "Ortalama yarım günde sökme işlemleri tamamlanmıştır. Aracın temizliği de ortalama yarım gün sürmektedir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-32",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-032",
+    "baslik": "Kormetal Numune Üretimi",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-15",
+    "vade": "2026-06-19",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-32-st1",
+        "text": "1.Black2.Gunmetal Gray3.Gunmetal Diamond",
+        "done": true
+      },
+      {
+        "id": "kit-32-st2",
+        "text": "3 araçlık 3 farklı renkte numune çalışılacaktır.19.06.2026 tarihinde jantlar geldi.Pazarlama ekibinden dönüş beklenmektedir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-33",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-033",
+    "baslik": "Tavan Test Numunesi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-15",
+    "vade": "2026-06-23",
+    "bitisTarihi": "2026-06-19",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-33-st1",
+        "text": "Yapıştırıcı ince çekilerek numune hazırlanmıştır.",
+        "done": true
+      },
+      {
+        "id": "kit-33-st2",
+        "text": "Test için kürlenmesi beklenmektedir. ( Araç şasine test yazıldı, evlendirildiğinde bakılacaktır. )Bu aksiyon kapatıldı. \" Süreç Henkel Yapıştırma İyileştirmeleri \" içerisinde devam edecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-34",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-034",
+    "baslik": "Bodylerin Taranması",
+    "sorumlu": "Hüseyin YILDIRIM",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-15",
+    "vade": "",
+    "bitisTarihi": "2026-06-16",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-34-st1",
+        "text": "Tarama firmasıyla Cemre Hanım görüşme sağladı.",
+        "done": true
+      },
+      {
+        "id": "kit-34-st2",
+        "text": "Pazartesi - Salı günü firmanın gelmesi beklenmektedir.Raporlar incelenecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-35",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-035",
+    "baslik": "Şahit Numune Bölgesi",
+    "sorumlu": "Şenol ÖZCANLI",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "2026-06-26",
+    "bitisTarihi": "2026-06-23",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-35-st1",
+        "text": "Plastik Enejksiyon tarafında raf olacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-35-st2",
+        "text": "Süreci Şenol takip ediyor.Raf yaptırıldı, ürünler orada stoklanacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-36",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-036",
+    "baslik": "Boyahane ve EOL Takip - Raporlama",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-12",
+    "vade": "",
+    "bitisTarihi": "2026-06-12",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-36-st1",
+        "text": "Form yeniden düzenlenecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-36-st2",
+        "text": "Tamamlanmıştır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-37",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-037",
+    "baslik": "Tavan İyileştirme Çalışması",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-15",
+    "vade": "",
+    "bitisTarihi": "2026-06-16",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-37-st1",
+        "text": "Klipsler iptal edilerek, yapıştırma işlemi yapılacaktır. Araç numaraları için liste oluşturuldu.Klipsler söküldü, süreç izlenecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-37-st2",
+        "text": "Mühendislik değişiklik formu oluşturuldu. Sisteme eklendi.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-38",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-038",
+    "baslik": "Araç Kontrol Dosyaları",
+    "sorumlu": "Hüseyin YILDIRIM",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-22",
+    "vade": "2026-06-26",
+    "bitisTarihi": "",
+    "durum": "iptal",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-38-st1",
+        "text": "Araç kontrol dosyaları Hüseyin'de onlar ay ay klasörlenerek arşivlenecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-38-st2",
+        "text": "Hüseyin dosyaları temize çekiyormuş. 22sinde ondan teslim alınarak işlemlere başlanacaktır.Dönüş alınamadı.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-39",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-039",
+    "baslik": "Final kontrol formu güncellenecektir.",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-17",
+    "vade": "2026-06-17",
+    "bitisTarihi": "2026-06-17",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-39-st1",
+        "text": "Üzerinde çalışmalara başlanmıştır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-40",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-040",
+    "baslik": "HENKEL Yapıştırma İyileştirme Çalışmaları",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-19",
+    "vade": "2026-07-01",
+    "bitisTarihi": "2026-08-31",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-40-st1",
+        "text": "• Cam - Metal• Tavan - Metal ( 26.06.2026 tarihinde uygulama yapıldı. )• Plastik - Plastik• Plastik - Cam",
+        "done": true
+      },
+      {
+        "id": "kit-40-st2",
+        "text": "İlk başlangıç tavan metal ile olacaktır. Numune ürünler \" 19.06.2026 \" tarihinde teslim edilecektir.Numuneler test için teslim edildi. 25.06.2026 sonuçlar çıkacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-41",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-041",
+    "baslik": "Kapı Vidaları Hk.",
+    "sorumlu": "Doğukan TOKAYAdem YILMAZZOBA",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-23",
+    "vade": "2026-06-30",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-41-st1",
+        "text": "Kapı iç montajında kullanılan vidaların paslanmaz çelik veya galvaniz kaplı gibi korozyon direnci yüksek malzemelerle değiştirilmesi gerekmektedir.",
+        "done": true
+      },
+      {
+        "id": "kit-41-st2",
+        "text": "Doğukan ve Adem'e mail atıldı.",
+        "done": true
+      },
+      {
+        "id": "kit-41-st3",
+        "text": "Tekrar sorulacaktır ( 02.07.2026 )",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-42",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-042",
+    "baslik": "Su Testi Kabini",
+    "sorumlu": "Alp ERGENÇMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-23",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-42-st1",
+        "text": "Alp hocayla birlikte su testi kabini incelenecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-42-st2",
+        "text": "Test kabini şubeye alınacaktır, burada yeniden kurulum sürecinde bakılacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-43",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-043",
+    "baslik": "Fren Servosu ve Bıw Birleşimi",
+    "sorumlu": "Muharrem DELİKTAŞHikmet ŞAHİN",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-23",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-43-st1",
+        "text": "Servonun bodyle birleştiği yerdeki contalar ve fren pedalının üstündeki conta kontrol edilecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-43-st2",
+        "text": "Kontroller sağlandı, operatörler süreci doğru uygulamaktadır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-44",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-044",
+    "baslik": "Sentil Ölçümleri Hk.",
+    "sorumlu": "Hüseyin YILDIRIM",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-06-26",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "iptal",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-44-st1",
+        "text": "Sentil çakısı ile araçlar final kontrolde ölçülecek ve tolerans değerleri belirlenecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-44-st2",
+        "text": "Süreçle ilgili veri gelmedi.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-45",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-045",
+    "baslik": "Henkel Test İlerlemesi Hk.",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-02",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-45-st1",
+        "text": "Taha Bey'le görüşme sağlanacaktır. • Yaşlandırma testleri yapılabilir mi ?• Tavan sökme / yapıştırma süreci ne zaman yapılacaktır ?",
+        "done": true
+      },
+      {
+        "id": "kit-45-st2",
+        "text": "Test için Taha Bey teklif alıp dönecektir.20.07.2026 - 31.07.2026 tarihleri arasında hem tavan sökülecektir hemde yeni ürünler test edilecektir.Tavan sökme sürecine başlanmıştır. ( 22.07.2026 )Tavan sökme süreci tamamlanmıştır. Testler bağımsız dış firmada yapılabilmektedir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-46",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-046",
+    "baslik": "Yerlileştirme Projesi ( Cam Çalışması )",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-06",
+    "vade": "2026-07-06",
+    "bitisTarihi": "2026-07-06",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-46-st1",
+        "text": "• Başkent Cam ziyaret edilecektir. ( 06.07.2026 )",
+        "done": true
+      },
+      {
+        "id": "kit-46-st2",
+        "text": "Rapor sonucu mail atılmıştır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-47",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-047",
+    "baslik": "Yerlileştirme Projesi ( Batarya Paketi )",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "beklemede",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-47-st1",
+        "text": "• Cw enerji ile görüşülecektir.• Imecar ile görüşülecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-48",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-048",
+    "baslik": "Yerlileştirme Projesi ( Metal Karkas )",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "beklemede",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-48-st1",
+        "text": "Maenso ekibi tarafından yönetilecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-49",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-049",
+    "baslik": "Yerlileştirme Projesi ( Koltuk )",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "beklemede",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-49-st1",
+        "text": "Pilot koltuk ile görüşülecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-50",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-050",
+    "baslik": "Yerlileştirme Projesi ( Korna )",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-16",
+    "vade": "2026-07-31",
+    "bitisTarihi": "",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-50-st1",
+        "text": "Seger firmasından temin edilecekitir.Kalite dokümanları hakkında görüşmek için mail atıldı.21.07.2026 Toplantı yapılacaktır. ( SOR dosyasında teknik bilgiler incelenecektir. )Teknik resim onayı beklemektedir. ( 10.08.2026 )",
+        "done": true
+      },
+      {
+        "id": "kit-50-st2",
+        "text": "PPAP Hazırlığı: Seviye 3 (Level 3) PPAP dosyalarının hazırlanması,",
+        "done": true
+      },
+      {
+        "id": "kit-50-st3",
+        "text": "Sertifikasyon: Minimum ISO 9001 kalite belgesinin sunulması,",
+        "done": true
+      },
+      {
+        "id": "kit-50-st4",
+        "text": "Paketleme: Paketleme şartnamesinin oluşturularak tarafımıza iletilmesi,",
+        "done": true
+      },
+      {
+        "id": "kit-50-st5",
+        "text": "Etiketleme: Sistemlerimize uyumlu etiket formatının netleştirilmesi,",
+        "done": true
+      },
+      {
+        "id": "kit-50-st6",
+        "text": "Şahit Numune: Karşılıklı olarak 1'er adet şahit numune belirlenmesi,",
+        "done": true
+      },
+      {
+        "id": "kit-50-st7",
+        "text": "Sevkiyat Dokümantasyonu: Her sevkiyatta malzeme sertifikası ve ölçüm raporlarının paylaşılması,",
+        "done": true
+      },
+      {
+        "id": "kit-50-st8",
+        "text": "Firma Ziyareti / Denetimi: Tarafımızca gerçekleştirilecek süreç denetimi. (17-28 Ağustos )",
+        "done": true
+      },
+      {
+        "id": "kit-50-st9",
+        "text": "Teknik resim onaylanıp, firmaya iletilecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-51",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-051",
+    "baslik": "Yerlileştirme Projesi ( Ayna )",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-16",
+    "vade": "2026-07-31",
+    "bitisTarihi": "",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-51-st1",
+        "text": "Eraynadan temin edilecektir.Hatırlatma maili atılmıştır.",
+        "done": true
+      },
+      {
+        "id": "kit-51-st2",
+        "text": "Kalite evrakları ile ilgili mail atılmıştır. ( 20.07.2026 Hatırlatma atıldı. )17-28 Ağustos arasında ziyaret yapılacaktır, fakat firma üretimi Yozgattadır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-52",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-052",
+    "baslik": "Homologasyon",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-08",
+    "vade": "2026-07-10",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-52-st1",
+        "text": "Dokümanlar okunup incelenecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-53",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-053",
+    "baslik": "COP",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-08",
+    "vade": "2026-07-10",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-53-st1",
+        "text": "Dokümanlar okunup incelenecektir.KYS kurulumu yapılacaktır. ( Yeni arkadaş gelince başlanacaktır. )",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-54",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-054",
+    "baslik": "Tip Onayı Genişletme",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "2026-07-29",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-54-st1",
+        "text": "Toplantı yapılacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-54-st2",
+        "text": "Görüşme yapıldı, Cemre Hanım takip ediyor notlarını paykaşacak.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-55",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-055",
+    "baslik": "Bostancı Şube Tamir",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-09",
+    "vade": "2026-07-09",
+    "bitisTarihi": "2026-07-09",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-55-st1",
+        "text": "Araç kaputu kalkmaktadır. Perşembe günü yerinde tamir olacaktır",
+        "done": true
+      },
+      {
+        "id": "kit-55-st2",
+        "text": "Tamir yapılmıştır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-56",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-056",
+    "baslik": "Araç Fotoğraf Takip Sistemi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-07",
+    "vade": "2026-07-10",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-56-st1",
+        "text": "Birçin Hanım'dan fotoğraf yükleme alanı için dönüş beklenmektedir.",
+        "done": true
+      },
+      {
+        "id": "kit-56-st2",
+        "text": "Ozan Beye mail atıldı, sistemin uygulanması bekleniyor.Ozan Bey'ler sevk edilen araçların fotoğraflarını yüklemeye başlamıştır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-57",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-057",
+    "baslik": "Araç Değişiklik Matrisi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-06",
+    "vade": "2026-07-07",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-57-st1",
+        "text": "Matris tamamlanıp ilgili kişilere mail atılacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-57-st2",
+        "text": "Dönüş olursa toplantı düzenlenecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-58",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-058",
+    "baslik": "Cam Tedarikçi Bilgileri Raporu",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-08",
+    "vade": "2026-07-10",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-58-st1",
+        "text": "Cemre Hanım, ilgili kısımları dolduracaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-58-st2",
+        "text": "Dönüş beklenmektedir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-59",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-059",
+    "baslik": "Yapıştırma Testi ( Kaput )",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-10",
+    "vade": "2026-07-10",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-59-st1",
+        "text": "Yüzey skoçlanarak deneme yapılan ürünler uygunsuzdur.Yüzey pürmüzlenerek denenen ürünlerde yüzeyden ayrılma gözlemlenmedi, yapıştırıcıdan ayrılma gözlemlendi.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-60",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-060",
+    "baslik": "Balata Değişimi Yapılacaktır.",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-13",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "iptal",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-60-st1",
+        "text": "Balata değişiminden sonra 500-1000-2000 km kontrolleri ve incelemeleri yapılacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-61",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-061",
+    "baslik": "Yolcu camlarının contası ölçülecektir.",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-13",
+    "vade": "2026-07-13",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-61-st1",
+        "text": "Yolcu camlarının shore değerleri kontrol edilecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-61-st2",
+        "text": "Conta 75 shore gelmektedir.Tan kauçuk üretim standartında 65 -5 shore olması gerektiği yazıyor. Konu iyileştirme toplantısında konuşulacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-62",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-062",
+    "baslik": "İtac Görüşme",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-16",
+    "vade": "2026-07-23",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-62-st1",
+        "text": "Yerlileştirme projelerimiz kapsamında bazı komponentlerde tedarikçi değişikliğine gidiyoruz. Bu değişikliklerin tip onayına etkilerini değerlendirmek üzere sizinle iş birliği yapmak istiyoruz.Bu doğrultuda; süreç adımları (test aracı hazırlığı, dokümantasyon vb.) ve ücretlendirme detayları (komponent bazlı mı yoksa paket fiyat mı) hakkında bilgi paylaşabilir misiniz?",
+        "done": true
+      },
+      {
+        "id": "kit-62-st2",
+        "text": "Cemre Hanım mail attı, dönüş beklenmektedir.Cemre Hanım, toplantı için görüşecektir.Toplantı yapılmıştır, detaylarla ilgili Cemre Hanım not paylaşacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-63",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-063",
+    "baslik": "Cam Numuneleri Hk.",
+    "sorumlu": "Doğukan TOKAYAdem YILMAZZOBAMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-63-st1",
+        "text": "Başkent Cam: Numuneler geldi.",
+        "done": true
+      },
+      {
+        "id": "kit-63-st2",
+        "text": "30.07.2026 Tarihinde denemesi yapılacaktır.Denemesi yapıldı. tedarikçiye mail atıldı.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-64",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-064",
+    "baslik": "Cam Numuneleri Hk.",
+    "sorumlu": "Doğukan TOKAYAdem YILMAZZOBAMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-64-st1",
+        "text": "Olimpia Cam: 31.07.2026 Tarihinde denemesi yapılacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-64-st2",
+        "text": "Deneme bekliyor.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-65",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-065",
+    "baslik": "Tedarikçi Yönetimi Dokümanlarının Kurulması",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-20",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-65-st1",
+        "text": "Hem mevcut tedarikçilerle yaşanan süreçlerde aksaklıkları önlemek hem de yeni yerli tedarikçilerden alım yapmadan önce sistemi standart hale getirmek",
+        "done": true
+      },
+      {
+        "id": "kit-65-st2",
+        "text": "Tedarikçi El Kitabı ( Tamamlandı 29.07.2026 )",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-66",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-066",
+    "baslik": "2 Adet tablet siparişi açılacaktır.",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-22",
+    "vade": "2026-07-31",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-66-st1",
+        "text": "Ozan Beyle birlikte tablet siparişi girilecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-67",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-067",
+    "baslik": "Henkel Müşteri Ziyaretleri / Araç Yorumları",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-23",
+    "vade": "2026-07-23",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-67-st1",
+        "text": "Pazarlama ve ilgili ekiplerle paylaşılacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-68",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-068",
+    "baslik": "COP Denetimi Hazırlıkları",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-07-29",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-68-st1",
+        "text": "Furkan Bey'den gelen soru listesine göre çalışmalar yapılacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-68-st2",
+        "text": "Soru listesi çıkarıldı. Çalışma planı yapılacaktır.Giriş Kalite Kontrol ProsedürüGiriş Kalite Kontrol FormuProses Kontrol ProsedürüProses Kontrol Formu Final Kontrol ProsedürüFinal Kontrol FormuDepolama ProsedürüSevkiyat Prosedürü",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-69",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-069",
+    "baslik": "Karea COP Test planlaması ve teklif isteği",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-69-st1",
+        "text": "Teklif bekliyoruz.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-70",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-070",
+    "baslik": "Test Aracı Üretimi",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-70-st1",
+        "text": "Test süreci için araç üretimi yapılacaktır.",
+        "done": true
+      },
+      {
+        "id": "kit-70-st2",
+        "text": "120 Numaralı araç test için üretilmiştir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-71",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-071",
+    "baslik": "Hurda Yönetim Süreci",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-71-st1",
+        "text": "Hurda ürünler için karantina alanı belirlenecektir.Hurda ürünlerin ayrıştırılması belirlenecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-72",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-072",
+    "baslik": "Kalibrasyon Takip Listesi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-72-st1",
+        "text": "Karea bünyesindeki tüm aletler listeye eklenecektir ve kalibrasyona gönderilecektir.",
+        "done": true
+      },
+      {
+        "id": "kit-72-st2",
+        "text": "Kalibrasyon talimatı yazılacaktır.Doğrulama formu yazılacaktır.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-73",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-073",
+    "baslik": "Mühendislik Değişiklik Yönetimi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-08-11",
+    "vade": "2026-08-14",
+    "bitisTarihi": "2026-08-13",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-73-st1",
+        "text": "Mühendislik değişiklik formlarının takibinin yapılacağı genel bir excel yapacağız.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-74",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-074",
+    "baslik": "Uygunluk Belgesi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-08-11",
+    "vade": "2026-08-14",
+    "bitisTarihi": "2026-08-13",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-74-st1",
+        "text": "İlyas Bey: Şasi numaralarına göre açılan klasörlere uygunluk belgelerinin eksiksiz yüklendiğini kontrol et.Birçim Hanım: Devir öncesi araçlara ait evrakların durumunu teyit et, gerekiyorsa eksik belgelerin yüklenmesine destek ol.Kontrol (14.08.2026 Cuma): Tüm şasilerin belgelerinin klasörlerde hazır olduğunu doğrula.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-75",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-075",
+    "baslik": "Denetim Eksiklikleri",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "devam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-75-st1",
+        "text": "Giriş Kalite Kontrol Kayıtları dosyasının daha kalabalıklaşması iyi olacaktır. Orkun + Sennur / Abdurrahman ile görüşülebilir, bilgi içeriği için.Mal Kabul girdi formu. Batarya checklistleri örnek olarak gösterilebilir. Ayrıca Emark olan ürünlere dair emark kontrol formu oluşturulabilir: Lastik, aydınlatmalar, korna, aynalar, emniyet kemeri, camlar, kedigözü.Orkun'un tedarikçilerden final kontrol raporlarını istemesi. (Cemre)8.3.2 Hangi ekipmanların hangi periyotlarda bakım yapılması. Kahan'la görüşülecek. Ekipman listesi var mı?8.3.5 EOL'daki testlerin sonuç değerlerinin oradaki bilgisayardan çekilmesi ve anlamlı bir grafik oluşturması. Sapmaların yönetimi için de ekip toplantısı yapılarak tekil konu sahibi belirlenir. Ömer - Hasan Basri8.3.7 - COP denetim günü etraftaki petlas'ları saklayıp haida'ları getirelim - en bariz komponent o olduğu için. Daha fazla hangi komponent göze çarpabilir? 8.3.8 - Şasi / motor / batarya dışında seri no takibi hangi komponentlerin olmalı? 3in1 ya da VCU? Gökhan ve Furkan'larla tartışalım.8.3.9 - Emarklı ürünlerin soft ve hard emark işaretlemelerinin doğruluğu kontrolü için kontrol formu oluştur. (Cemre)8.3.10 - COC belgelerini tedarikçilerden isteyelim. (Orkun + Cemre)",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-76",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-076",
+    "baslik": "Talimat Düzenlemesi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-08-17",
+    "vade": "2026-08-17",
+    "bitisTarihi": "2026-08-17",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-76-st1",
+        "text": "Gökhan ve Orkun Bey'den gelen talimatları düzenleyip sisteme ekleyeceğiz.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-77",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-077",
+    "baslik": "İSG Dolabı ve Malzemeler",
+    "sorumlu": "Burak KIZMAZ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "beklemede",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-77-st1",
+        "text": "İSG Dolabı ve koruyucu ekipmanlar alınarak gelen kişilere sunulması gerekmektedir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-78",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-078",
+    "baslik": "EMC Test Labarotuvar Seçimi",
+    "sorumlu": "Cemre ABLAYRefik DİRİ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "beklemede",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-78-st1",
+        "text": "Refik Bey'den dönüş beklenmektedir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-79",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-079",
+    "baslik": "Tavan Sökmeden Tamir Yönteminin Belirlenmesi",
+    "sorumlu": "MühendislikMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-08-21",
+    "vade": "2026-08-21",
+    "bitisTarihi": "2026-08-21",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-79-st1",
+        "text": "Tamir yöntemi sabitlenecektir.",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-80",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-080",
+    "baslik": "IMDS Sisteminin oluşturulması",
+    "sorumlu": "Cemre ABLAYMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "beklemede",
+    "oncelik": "Orta",
+    "subtasks": []
+  },
+  {
+    "id": "kit-81",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-081",
+    "baslik": "Uyarı Panosu",
+    "sorumlu": "MühendislikMuharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "",
+    "vade": "",
+    "bitisTarihi": "",
+    "durum": "beklemede",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-81-st1",
+        "text": "Benim genel bir önerim olacak. Araçlarla fiziki teması olan herkes, yüzük,kolye,künye,saat, kalem, kemer,kemer tokası, düğme gibi malzemelerden arınmış olmalı.( Talimat belki de vardır. )",
+        "done": true
+      }
+    ]
+  },
+  {
+    "id": "kit-82",
+    "module": "kalite_guvence",
+    "kod": "KIT-2026-082",
+    "baslik": "Araç İzlenebilirlik Sistemi",
+    "sorumlu": "Muharrem DELİKTAŞ",
+    "gorevTipi": "bireysel",
+    "ekipUyeleri": [],
+    "acilisTarihi": "2026-08-12",
+    "vade": "2026-08-21",
+    "bitisTarihi": "2026-08-21",
+    "durum": "tamam",
+    "oncelik": "Orta",
+    "subtasks": [
+      {
+        "id": "kit-82-st1",
+        "text": "Araçlara ait dosyaların düzenlenmesi,Batarya, motor formlarının sisteme işlenmesi",
+        "done": true
+      }
+    ]
+  }
+]

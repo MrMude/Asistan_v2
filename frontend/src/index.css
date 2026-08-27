@@ -1,0 +1,26 @@
+/* STREAMING_CHUNK:Clearing default index.css styles... /
+/ Varsayılan Vite stillerinin çakışmasını önlemek için boş bırakılmıştır. */
+/* Yazdırma (Print) düzeni — Dashboard ve Detaylı Rapor'daki "Yazdır"
+   butonları için. Koyu tema arka planları yazdırmaya uygun değil ve
+   header/nav/sohbet balonu gibi öğeler yazdırmada gereksiz; bu kural
+   sadece asıl içeriği (id="print-area") beyaz zeminde, siyah yazıyla
+   basar; .no-print işaretli öğeler yazdırmaya hiç girmez. */
+@media print {
+  .no-print { display: none !important; }
+  .print-only { display: block !important; }
+  * { background: #ffffff !important; color: #000000 !important; box-shadow: none !important; border-color: #cccccc !important; }
+  #print-area { padding: 0 !important; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { border: 1px solid #ccc !important; }
+}
+.print-only { display: none; }
+
+/* Sistemi canlandırmak için genel hover/geçiş efektleri — kartlar hafifçe
+   yukarı kalkıp parlak bir kenarlık alır, butonlar tıklanabilir hissi
+   versin diye hafif parlar/küçülür. */
+.hover-lift { transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease; }
+.hover-lift:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,0.35); border-color: #F59E0B !important; }
+button { transition: filter 0.12s ease, transform 0.08s ease; }
+button:hover { filter: brightness(1.15); }
+button:active { transform: scale(0.96); }
+.todo-row:hover { background: #16202f !important; }

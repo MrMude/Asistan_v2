@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "rpt-2026-08-25",
+    "seq": 36,
+    "baslik": "Gün Sonu Kalite Kontrol ve Araç Durum Raporu",
+    "tarih": "2026-08-25",
+    "hazirlayan": "Kalite Güvence Yönetimi (K-QN)",
+    "bolum": "Fabrika 1 & Depo Takip",
+    "sonDurumOzeti": "Yeni Eklenenler/Güncellenenler: #149, #151, #152, #153 şubeye eklendi.\\nHazır Durumdakiler: #148 ve #150 numaralı araçlar hazır.\\nDepoda Rework Devam Eden Araçlar: #136, #137, #138",
+    "araclar": [
+      {
+        "id": "veh25-1",
+        "no": "140",
+        "konum": "fabrika1",
+        "asama": "Lift",
+        "detay": "Liftte.",
+        "tarih": "2026-08-25",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-2",
+        "no": "141",
+        "konum": "fabrika1",
+        "asama": "EOL",
+        "detay": "Rot ayarı yapılacak. Spoiler darbeden dolayı boyahaneye girecek.",
+        "tarih": "2026-08-25",
+        "reworklar": [
+          {
+            "id": "rw-2",
+            "text": "Rework / Boya Bekliyor — spoiler darbe hasarı",
+            "tarih": "2026-08-25"
+          }
+        ]
+      },
+      {
+        "id": "veh25-3",
+        "no": "142",
+        "konum": "fabrika1",
+        "asama": "EOL",
+        "detay": "Rot ayarı yapılacak. Direksiyon çerçeve çizik, yapıştırıcı taşması. Spoiler darbeden dolayı boyahaneye girecek.",
+        "tarih": "2026-08-25",
+        "reworklar": [
+          {
+            "id": "rw-3",
+            "text": "Rework / Boya Bekliyor — spoiler darbe hasarı, direksiyon çerçeve çizik",
+            "tarih": "2026-08-25"
+          }
+        ]
+      },
+      {
+        "id": "veh25-4",
+        "no": "146",
+        "konum": "fabrika1",
+        "asama": "EOL",
+        "detay": "Rot ayarı ve frenleme motoru yapılacak.",
+        "tarih": "2026-08-25",
+        "reworklar": [
+          {
+            "id": "rw-4",
+            "text": "Rework — rot ayarı ve frenleme motoru",
+            "tarih": "2026-08-25"
+          }
+        ]
+      },
+      {
+        "id": "veh25-5",
+        "no": "147",
+        "konum": "fabrika1",
+        "asama": "EOL",
+        "detay": "Rot ayarı yapılacak.",
+        "tarih": "2026-08-25",
+        "reworklar": [
+          {
+            "id": "rw-5",
+            "text": "Rework — rot ayarı",
+            "tarih": "2026-08-25"
+          }
+        ]
+      },
+      {
+        "id": "veh25-6",
+        "no": "148",
+        "konum": "fabrika1",
+        "asama": "EE Kontrol",
+        "detay": "Araç hazır.",
+        "tarih": "2026-08-25",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-7",
+        "no": "149",
+        "konum": "fabrika1",
+        "asama": "EOL",
+        "detay": "Rot ayarı yapılacak.",
+        "tarih": "2026-08-25",
+        "reworklar": [
+          {
+            "id": "rw-7",
+            "text": "Rework — rot ayarı",
+            "tarih": "2026-08-25"
+          }
+        ]
+      },
+      {
+        "id": "veh25-8",
+        "no": "150",
+        "konum": "fabrika1",
+        "asama": "EE Kontrol",
+        "detay": "Araç hazır.",
+        "tarih": "2026-08-25",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-9",
+        "no": "151",
+        "konum": "fabrika1",
+        "asama": "EOL",
+        "detay": "Şarj testi bekliyor, görsel kontrol yapılacak.",
+        "tarih": "2026-08-25",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-10",
+        "no": "152",
+        "konum": "fabrika1",
+        "asama": "Sürüş Testi",
+        "detay": "Görsel kontrol yapıldı, sürüş testi yapılacak. Şarj testi bekliyor.",
+        "tarih": "2026-08-25",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-11",
+        "no": "153",
+        "konum": "fabrika1",
+        "asama": "Lift",
+        "detay": "Araç liftte.",
+        "tarih": "2026-08-25",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-12",
+        "no": "136",
+        "konum": "depo",
+        "asama": "Final Kontrol",
+        "detay": "Final kontrol edildi. Sol fren park stop içi buharlaşma mevcut. Tamir işlemi bekliyor (Serbest bırakılmadı).",
+        "tarih": "2026-08-25",
+        "reworklar": [
+          {
+            "id": "rw-12",
+            "text": "Final Kontrol NOK — sol fren park stop içi buharlaşma",
+            "tarih": "2026-08-25"
+          }
+        ]
+      },
+      {
+        "id": "veh25-13",
+        "no": "137",
+        "konum": "depo",
+        "asama": "Final Kontrol",
+        "detay": "Final kontrol edildi. Silecek ses yapıyor çalışırken. Tamir işlemi bekliyor (Serbest bırakılmadı).",
+        "tarih": "2026-08-25",
+        "reworklar": [
+          {
+            "id": "rw-13",
+            "text": "Final Kontrol NOK — silecek ses yapıyor",
+            "tarih": "2026-08-25"
+          }
+        ]
+      },
+      {
+        "id": "veh25-14",
+        "no": "138",
+        "konum": "depo",
+        "asama": "Sızdırmazlık Testi",
+        "detay": "Bagaj su kaçağı giderildi. Sağ kapı üst tavan su kaçağı devam ediyor. Tamir işlemleri bekliyor.",
+        "tarih": "2026-08-25",
+        "reworklar": [
+          {
+            "id": "rw-14",
+            "text": "Sızdırmazlık NOK — sağ kapı üst tavan su kaçağı devam ediyor",
+            "tarih": "2026-08-25"
+          }
+        ]
+      },
+      {
+        "id": "veh25-15",
+        "no": "135",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrol edildi ve serbest bırakıldı.",
+        "tarih": "2026-08-24",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-16",
+        "no": "144",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tamir işlemleri yapıldı ve serbest bırakıldı.",
+        "tarih": "2026-08-24",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-17",
+        "no": "145",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrol edildi ve serbest bırakıldı.",
+        "tarih": "2026-08-24",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-18",
+        "no": "163",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrol edildi ve serbest bırakıldı.",
+        "tarih": "2026-08-24",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-19",
+        "no": "133",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-20",
+        "no": "129",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-21",
+        "no": "134",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-22",
+        "no": "124",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-23",
+        "no": "128",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-24",
+        "no": "126",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-25",
+        "no": "143",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-26",
+        "no": "139",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-27",
+        "no": "130",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tamir işlemleri tamamlandı, final kontrol edildi ve serbest bırakıldı.",
+        "tarih": "2026-08-20",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-28",
+        "no": "131",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tamir işlemleri yapıldı, final yapıldı ve serbest bırakıldı.",
+        "tarih": "2026-08-20",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-29",
+        "no": "118",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tamir işlemleri tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-20",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-30",
+        "no": "127",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tamir işlemleri tamamlandı, final kontrol yapıldı ve serbest bırakıldı.",
+        "tarih": "2026-08-19",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-31",
+        "no": "132",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Kapı kilit tamir edildi, final kontrol yapıldı ve serbest bırakıldı.",
+        "tarih": "2026-08-19",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-32",
+        "no": "120",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "EMC test aracı olarak serbest bırakıldı.",
+        "tarih": "2026-08-18",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-33",
+        "no": "122",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık testi OK, tüm kontroller tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-18",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-34",
+        "no": "108",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Ön sol çamurluk ve kapı ayarı tamir işlemleri tamamlandı.",
+        "tarih": "2026-08-17",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-35",
+        "no": "107",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Harness düzeltildi, E/E & Final kontrolleri tamamlandı.",
+        "tarih": "2026-08-14",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-36",
+        "no": "121",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık ve eksik parçalar tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-14",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-37",
+        "no": "123",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, E/E Check ve Final kontrolleri tamamlandı.",
+        "tarih": "2026-08-14",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-38",
+        "no": "125",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, trim ayarları, modül ve Final kontrolleri tamamlandı.",
+        "tarih": "2026-08-14",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-39",
+        "no": "110",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık testi OK, final kontrol edildi, olumsuzluk yok.",
+        "tarih": "2026-08-12",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-40",
+        "no": "117",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Ön tampon ve cam açıklık işlemleri yapıldı, final kontrol OK.",
+        "tarih": "2026-08-12",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-41",
+        "no": "119",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık testi OK, final kontrol yapıldı.",
+        "tarih": "2026-08-12",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-42",
+        "no": "106",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, Final kontrolü ve E/E Testi tamamlandı.",
+        "tarih": "2026-08-11",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-43",
+        "no": "116",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, Final kontrolü ve E/E Testi tamamlandı. Depoya giriş/park yapıldı.",
+        "tarih": "2026-08-11",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-44",
+        "no": "111",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, ön ızgara/silecek ayarları ve E/E Check tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-45",
+        "no": "112",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sürüş, sızdırmazlık ve E/E Check kontrolleri tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-46",
+        "no": "113",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, ön ızgara/silecek ayarları ve E/E Check tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-47",
+        "no": "114",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Radyatör değişimi, sızdırmazlık ve E/E Check tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-48",
+        "no": "115",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, kaput montajı ve E/E Check kontrolleri tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-49",
+        "no": "098",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Kalite kontrolleri tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-07",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-50",
+        "no": "130",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Şenol Bey tarafından şartlı onay verildi ve serbest bırakıldı.",
+        "tarih": "2026-08-07",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-51",
+        "no": "104",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Kalite kontrolleri tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-07",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-52",
+        "no": "109",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Fren körüğü kaynak kaçağı giderildi, EE Check tamamlandı.",
+        "tarih": "2026-08-06",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-53",
+        "no": "102 (eski 108)",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Şenol Bey şartlı onay verildi ve serbest bırakıldı.",
+        "tarih": "2026-08-07",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-54",
+        "no": "103",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Spoiler yapıştırma, sızdırmazlık ve EE Check kontrolleri tamamlandı.",
+        "tarih": "2026-08-04",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-55",
+        "no": "097",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sol ayna değişimi yapıldı. Ton farkı durumu onaylandı.",
+        "tarih": "2026-08-03",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-56",
+        "no": "091",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık ve EE Check kontrolleri tamamlandı.",
+        "tarih": "2026-08-01",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-57",
+        "no": "096",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final yapıldı, EPS ayarı, silecek ses ve fıskiye ayarları tamamlandı.",
+        "tarih": "2026-08-01",
+        "reworklar": []
+      },
+      {
+        "id": "veh25-58",
+        "no": "095",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tüm kalite ve test kontrolleri tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-01",
+        "reworklar": []
+      }
+    ]
+  },
+  {
+    "id": "rpt-2026-08-22",
+    "seq": 34,
+    "baslik": "Gün Sonu Kalite Kontrol ve Araç Durum Raporu",
+    "tarih": "2026-08-22",
+    "hazirlayan": "Kalite Güvence Yönetimi (K-QN)",
+    "bolum": "Fabrika 1 & Depo Takip",
+    "sonDurumOzeti": "Şubedeki Yeni/Güncel Durumlar: #141, #146, #148 ve #150 numaralı araçlar şube listesine işlendi.\nTesti İlerleyen Araçlar (Sızdırmazlık OK ➔ EE Bekleyen): #135, #136, #137, #145, #163\nEE Tamamlanıp Final Bekleyen Araçlar: #144\nRework Devam Eden Araçlar: #138 (Su kaçağı devam ediyor, sealler uygulandı)",
+    "araclar": [
+      {
+        "id": "veh-1",
+        "no": "141",
+        "konum": "fabrika1",
+        "asama": "Lift",
+        "detay": "Lifte alındı.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-2",
+        "no": "146",
+        "konum": "fabrika1",
+        "asama": "Sürüş Testi",
+        "detay": "Açık maddeler tamamlandı, vakum pompası sorunu giderildi. Sadece sürüş testi kaldı.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-3",
+        "no": "148",
+        "konum": "fabrika1",
+        "asama": "Sürüş Testi",
+        "detay": "Şarj testi OK. Sürüş testi yapılacak, görsel kusurlar gideriliyor.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-4",
+        "no": "150",
+        "konum": "fabrika1",
+        "asama": "EOL",
+        "detay": "Şarj testine girdi.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-5",
+        "no": "144",
+        "konum": "depo",
+        "asama": "Final Kontrol",
+        "detay": "Bagaj iç sağ üst plastik deforme (derin çizik). Arka bagaj logo takıldı. EE testi yapıldı, final kontrol yapılacak.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-6",
+        "no": "135",
+        "konum": "depo",
+        "asama": "EE Kontrol",
+        "detay": "Ön logo takıldı. Sızdırmazlık testi OK. EE testi bekleniyor.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-7",
+        "no": "136",
+        "konum": "depo",
+        "asama": "EE Kontrol",
+        "detay": "Sızdırmazlık testi OK. EE testi bekleniyor.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-8",
+        "no": "137",
+        "konum": "depo",
+        "asama": "EE Kontrol",
+        "detay": "Sızdırmazlık testi OK. EE testi bekleniyor.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-9",
+        "no": "138",
+        "konum": "depo",
+        "asama": "Sızdırmazlık Testi",
+        "detay": "Bagaj kilit su kaçağı devam ediyor. Sağ kapı üst iç tavan su kaçağı tespit edildi. Sealler işlemleri yapıldı, sızdırmazlık testi yapılacak.",
+        "tarih": "2026-08-22",
+        "reworklar": [
+          {
+            "id": "rw-9",
+            "text": "Su kaçağı devam ediyor, sealler uygulandı.",
+            "tarih": "2026-08-22"
+          }
+        ]
+      },
+      {
+        "id": "veh-10",
+        "no": "145",
+        "konum": "depo",
+        "asama": "EE Kontrol",
+        "detay": "Sızdırmazlık testi OK. EE testi bekleniyor.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-11",
+        "no": "163",
+        "konum": "depo",
+        "asama": "EE Kontrol",
+        "detay": "Sızdırmazlık testi OK. EE testi bekleniyor.",
+        "tarih": "2026-08-22",
+        "reworklar": []
+      },
+      {
+        "id": "veh-12",
+        "no": "133",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh-13",
+        "no": "129",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh-14",
+        "no": "134",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh-15",
+        "no": "124",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh-16",
+        "no": "128",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh-17",
+        "no": "126",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh-18",
+        "no": "143",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh-19",
+        "no": "139",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final kontrolleri tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-21",
+        "reworklar": []
+      },
+      {
+        "id": "veh-20",
+        "no": "130",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tamir işlemleri tamamlandı, final kontrol edildi ve serbest bırakıldı.",
+        "tarih": "2026-08-20",
+        "reworklar": []
+      },
+      {
+        "id": "veh-21",
+        "no": "131",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tamir işlemleri yapıldı, final yapıldı ve serbest bırakıldı.",
+        "tarih": "2026-08-20",
+        "reworklar": []
+      },
+      {
+        "id": "veh-22",
+        "no": "118",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tamir işlemleri tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-20",
+        "reworklar": []
+      },
+      {
+        "id": "veh-23",
+        "no": "127",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tamir işlemleri tamamlandı, final kontrol yapıldı ve serbest bırakıldı.",
+        "tarih": "2026-08-19",
+        "reworklar": []
+      },
+      {
+        "id": "veh-24",
+        "no": "132",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Kapı kilit tamir edildi, final kontrol yapıldı ve serbest bırakıldı.",
+        "tarih": "2026-08-19",
+        "reworklar": []
+      },
+      {
+        "id": "veh-25",
+        "no": "120",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "EMC test aracı olarak serbest bırakıldı.",
+        "tarih": "2026-08-18",
+        "reworklar": []
+      },
+      {
+        "id": "veh-26",
+        "no": "122",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık testi OK, tüm kontroller tamamlanarak serbest bırakıldı.",
+        "tarih": "2026-08-18",
+        "reworklar": []
+      },
+      {
+        "id": "veh-27",
+        "no": "108",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Ön sol çamurluk ve kapı ayarı tamir işlemleri tamamlandı.",
+        "tarih": "2026-08-17",
+        "reworklar": []
+      },
+      {
+        "id": "veh-28",
+        "no": "107",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Harness düzeltildi, E/E & Final kontrolleri tamamlandı.",
+        "tarih": "2026-08-14",
+        "reworklar": []
+      },
+      {
+        "id": "veh-29",
+        "no": "121",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık ve eksik parçalar tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-14",
+        "reworklar": []
+      },
+      {
+        "id": "veh-30",
+        "no": "123",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, E/E Check ve Final kontrolleri tamamlandı.",
+        "tarih": "2026-08-14",
+        "reworklar": []
+      },
+      {
+        "id": "veh-31",
+        "no": "125",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, trim ayarları, modül ve Final kontrolleri tamamlandı.",
+        "tarih": "2026-08-14",
+        "reworklar": []
+      },
+      {
+        "id": "veh-32",
+        "no": "110",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık testi OK, final kontrol edildi, olumsuzluk yok.",
+        "tarih": "2026-08-12",
+        "reworklar": []
+      },
+      {
+        "id": "veh-33",
+        "no": "117",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Ön tampon ve cam açıklık işlemleri yapıldı, final kontrol OK.",
+        "tarih": "2026-08-12",
+        "reworklar": []
+      },
+      {
+        "id": "veh-34",
+        "no": "119",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık testi OK, final kontrol yapıldı.",
+        "tarih": "2026-08-12",
+        "reworklar": []
+      },
+      {
+        "id": "veh-35",
+        "no": "106",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, Final kontrolü ve E/E Testi tamamlandı.",
+        "tarih": "2026-08-11",
+        "reworklar": []
+      },
+      {
+        "id": "veh-36",
+        "no": "116",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, Final kontrolü ve E/E Testi tamamlandı. Depoya giriş/park yapıldı.",
+        "tarih": "2026-08-11",
+        "reworklar": []
+      },
+      {
+        "id": "veh-37",
+        "no": "111",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, ön ızgara/silecek ayarları ve E/E Check tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh-38",
+        "no": "112",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sürüş, sızdırmazlık ve E/E Check kontrolleri tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh-39",
+        "no": "113",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, ön ızgara/silecek ayarları ve E/E Check tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh-40",
+        "no": "114",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Radyatör değişimi, sızdırmazlık ve E/E Check tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh-41",
+        "no": "115",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık, kaput montajı ve E/E Check kontrolleri tamamlandı.",
+        "tarih": "2026-08-10",
+        "reworklar": []
+      },
+      {
+        "id": "veh-42",
+        "no": "098",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Kalite kontrolleri tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-07",
+        "reworklar": []
+      },
+      {
+        "id": "veh-43",
+        "no": "130",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Şenol Bey tarafından şartlı onay verildi ve serbest bırakıldı.",
+        "tarih": "2026-08-07",
+        "reworklar": []
+      },
+      {
+        "id": "veh-44",
+        "no": "104",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Kalite kontrolleri tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-07",
+        "reworklar": []
+      },
+      {
+        "id": "veh-45",
+        "no": "109",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Fren körüğü kaynak kaçağı giderildi, EE Check tamamlandı.",
+        "tarih": "2026-08-06",
+        "reworklar": []
+      },
+      {
+        "id": "veh-46",
+        "no": "102 (eski 108)",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Şenol Bey şartlı onay verildi ve serbest bırakıldı.",
+        "tarih": "2026-08-07",
+        "reworklar": []
+      },
+      {
+        "id": "veh-47",
+        "no": "103",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Spoiler yapıştırma, sızdırmazlık ve EE Check kontrolleri tamamlandı.",
+        "tarih": "2026-08-04",
+        "reworklar": []
+      },
+      {
+        "id": "veh-48",
+        "no": "097",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sol ayna değişimi yapıldı. Ton farkı durumu onaylandı.",
+        "tarih": "2026-08-03",
+        "reworklar": []
+      },
+      {
+        "id": "veh-49",
+        "no": "091",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Sızdırmazlık ve EE Check kontrolleri tamamlandı.",
+        "tarih": "2026-08-01",
+        "reworklar": []
+      },
+      {
+        "id": "veh-50",
+        "no": "096",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Final yapıldı, EPS ayarı, silecek ses ve fıskiye ayarları tamamlandı.",
+        "tarih": "2026-08-01",
+        "reworklar": []
+      },
+      {
+        "id": "veh-51",
+        "no": "095",
+        "konum": "depo",
+        "asama": "Serbestlik",
+        "detay": "Tüm kalite ve test kontrolleri tamamlandı, serbest bırakıldı.",
+        "tarih": "2026-08-01",
+        "reworklar": []
+      }
+    ]
+  }
+]

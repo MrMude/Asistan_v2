@@ -1,0 +1,872 @@
+[
+  {
+    "id": "EEF-001",
+    "kod": "EEF-001",
+    "aciklama": "EPS (CAL) Güncellendi mi?"
+  },
+  {
+    "id": "EEF-002",
+    "kod": "EEF-002",
+    "aciklama": "VCU Domain SW Güncellendi mi?"
+  },
+  {
+    "id": "EEF-003",
+    "kod": "EEF-003",
+    "aciklama": "VCU GW SW Güncellendi mi?"
+  },
+  {
+    "id": "EEF-004",
+    "kod": "EEF-004",
+    "aciklama": "BMS SW Güncellendi mi?"
+  },
+  {
+    "id": "EEF-005",
+    "kod": "EEF-005",
+    "aciklama": "MCU SW Güncellendi mi?"
+  },
+  {
+    "id": "EEF-006",
+    "kod": "EEF-006",
+    "aciklama": "MHU SW Güncellendi mi?"
+  },
+  {
+    "id": "EEF-007",
+    "kod": "EEF-007",
+    "aciklama": "BCM SW Güncellendi mi?"
+  },
+  {
+    "id": "EEF-008",
+    "kod": "EEF-008",
+    "aciklama": "VCU VIN Güncellemesi Güncellendi mi?"
+  },
+  {
+    "id": "EEF-009",
+    "kod": "EEF-009",
+    "aciklama": "Sağ Sol Dönüş Sinyali"
+  },
+  {
+    "id": "EEF-010",
+    "kod": "EEF-010",
+    "aciklama": "Gündüz Farı Kontrol"
+  },
+  {
+    "id": "EEF-011",
+    "kod": "EEF-011",
+    "aciklama": "Licance Plate Kontrol"
+  },
+  {
+    "id": "EEF-012",
+    "kod": "EEF-012",
+    "aciklama": "Low Beam"
+  },
+  {
+    "id": "EEF-013",
+    "kod": "EEF-013",
+    "aciklama": "High Beam"
+  },
+  {
+    "id": "EEF-014",
+    "kod": "EEF-014",
+    "aciklama": "FOG Light"
+  },
+  {
+    "id": "EEF-015",
+    "kod": "EEF-015",
+    "aciklama": "Reverse Gear Light"
+  },
+  {
+    "id": "EEF-016",
+    "kod": "EEF-016",
+    "aciklama": "Reverse Radar"
+  },
+  {
+    "id": "EEF-017",
+    "kod": "EEF-017",
+    "aciklama": "Reverse Park Sensor"
+  },
+  {
+    "id": "EEF-018",
+    "kod": "EEF-018",
+    "aciklama": "Hand Brake"
+  },
+  {
+    "id": "EEF-019",
+    "kod": "EEF-019",
+    "aciklama": "Sağ Sol Cam Açma Kapama"
+  },
+  {
+    "id": "EEF-020",
+    "kod": "EEF-020",
+    "aciklama": "Sağ Sol Kapı Kilit Sistemi Kontrol"
+  },
+  {
+    "id": "EEF-021",
+    "kod": "EEF-021",
+    "aciklama": "Arka Bagaj Kilit Sistemi Kontrol"
+  },
+  {
+    "id": "EEF-022",
+    "kod": "EEF-022",
+    "aciklama": "Dashboard Dörtlü Sinyal Kontrol"
+  },
+  {
+    "id": "EEF-023",
+    "kod": "EEF-023",
+    "aciklama": "Dashboard Kilit Butonu Kontrol"
+  },
+  {
+    "id": "EEF-024",
+    "kod": "EEF-024",
+    "aciklama": "Wiper System Kontrol Speed 1 / Speed 2"
+  },
+  {
+    "id": "EEF-025",
+    "kod": "EEF-025",
+    "aciklama": "Washer system control"
+  },
+  {
+    "id": "EEF-026",
+    "kod": "EEF-026",
+    "aciklama": "HVAC Blower Kotnrol"
+  },
+  {
+    "id": "EEF-027",
+    "kod": "EEF-027",
+    "aciklama": "HVAC PTC Isıtıcı"
+  },
+  {
+    "id": "EEF-028",
+    "kod": "EEF-028",
+    "aciklama": "HVAC A/C Kontrol"
+  },
+  {
+    "id": "EEF-029",
+    "kod": "EEF-029",
+    "aciklama": "HVAC Kanal Değişimi Kontrol"
+  },
+  {
+    "id": "EEF-030",
+    "kod": "EEF-030",
+    "aciklama": "Vites Geçiş Kontrolleri (P/R/N/D)"
+  },
+  {
+    "id": "EEF-031",
+    "kod": "EEF-031",
+    "aciklama": "Vakum Pompası Vakum Booster Kontrol"
+  },
+  {
+    "id": "EEF-032",
+    "kod": "EEF-032",
+    "aciklama": "Speaker Kontrol"
+  },
+  {
+    "id": "EEF-033",
+    "kod": "EEF-033",
+    "aciklama": "Araç Şarj Testi"
+  },
+  {
+    "id": "EEF-034",
+    "kod": "EEF-034",
+    "aciklama": "Araç Sürüş Testi"
+  },
+  {
+    "id": "EEF-035",
+    "kod": "EEF-035",
+    "aciklama": "Regenerative Brake Testi On Off"
+  },
+  {
+    "id": "EEF-036",
+    "kod": "EEF-036",
+    "aciklama": "ECO SPORT Mode Geçiş Kontrol"
+  },
+  {
+    "id": "EEF-037",
+    "kod": "EEF-037",
+    "aciklama": "MCU Ground Resistance (< 0.1 Ω @ ≥0.2A)"
+  },
+  {
+    "id": "EEF-038",
+    "kod": "EEF-038",
+    "aciklama": "e-Motor Ground Resistance (< 0.1 Ω @ ≥0.2A)"
+  },
+  {
+    "id": "EEF-039",
+    "kod": "EEF-039",
+    "aciklama": "3in1 Ground Resistance (< 0.1 Ω @ ≥0.2A)"
+  },
+  {
+    "id": "EEF-040",
+    "kod": "EEF-040",
+    "aciklama": "AC Ground Resistance (< 0.1 Ω @ ≥0.2A)"
+  },
+  {
+    "id": "EEF-041",
+    "kod": "EEF-041",
+    "aciklama": "HV Battery Ground Resistance (< 0.1 Ω @ ≥0.2A)"
+  },
+  {
+    "id": "EEF-042",
+    "kod": "EEF-042",
+    "aciklama": "Battery Connector (+) (>500 Ω/V, Karea Fit: >50.000 Ω)"
+  },
+  {
+    "id": "EEF-043",
+    "kod": "EEF-043",
+    "aciklama": "Battery Connector (-) (>500 Ω/V, Karea Fit: >50.000 Ω)"
+  },
+  {
+    "id": "EEF-044",
+    "kod": "EEF-044",
+    "aciklama": "3 in 1 PTC Connector (+) (>500 Ω/V, Karea Fit: >50.000 Ω)"
+  },
+  {
+    "id": "EEF-045",
+    "kod": "EEF-045",
+    "aciklama": "3 in 1 PTC Connector (-) (>500 Ω/V, Karea Fit: >50.000 Ω)"
+  },
+  {
+    "id": "EEF-046",
+    "kod": "EEF-046",
+    "aciklama": "3 in 1 AC Connector (+) (>500 Ω/V, Karea Fit: >50.000 Ω)"
+  },
+  {
+    "id": "EEF-047",
+    "kod": "EEF-047",
+    "aciklama": "3 in 1 AC Connector (-) (>500 Ω/V, Karea Fit: >50.000 Ω)"
+  },
+  {
+    "id": "EED-001",
+    "kod": "EED-001",
+    "aciklama": "Sağ Sol Dönüş Sinyali"
+  },
+  {
+    "id": "EED-002",
+    "kod": "EED-002",
+    "aciklama": "Gündüz Farı Kontrol"
+  },
+  {
+    "id": "EED-003",
+    "kod": "EED-003",
+    "aciklama": "Licance Plate Kontrol"
+  },
+  {
+    "id": "EED-004",
+    "kod": "EED-004",
+    "aciklama": "Low Beam"
+  },
+  {
+    "id": "EED-005",
+    "kod": "EED-005",
+    "aciklama": "High Beam"
+  },
+  {
+    "id": "EED-006",
+    "kod": "EED-006",
+    "aciklama": "FOG Light"
+  },
+  {
+    "id": "EED-007",
+    "kod": "EED-007",
+    "aciklama": "Reverse Gear Light"
+  },
+  {
+    "id": "EED-008",
+    "kod": "EED-008",
+    "aciklama": "Reverse Radar"
+  },
+  {
+    "id": "EED-009",
+    "kod": "EED-009",
+    "aciklama": "Reverse Park Sensor"
+  },
+  {
+    "id": "EED-010",
+    "kod": "EED-010",
+    "aciklama": "Hand Brake"
+  },
+  {
+    "id": "EED-011",
+    "kod": "EED-011",
+    "aciklama": "Sağ Sol Cam Açma Kapama"
+  },
+  {
+    "id": "EED-012",
+    "kod": "EED-012",
+    "aciklama": "Sağ Sol Kapı Kilit Sistemi Kontrol"
+  },
+  {
+    "id": "EED-013",
+    "kod": "EED-013",
+    "aciklama": "Arka Bagaj Kilit Sistemi Kontrol"
+  },
+  {
+    "id": "EED-014",
+    "kod": "EED-014",
+    "aciklama": "Dashboard Dörtlü Sinyal Kontrol"
+  },
+  {
+    "id": "EED-015",
+    "kod": "EED-015",
+    "aciklama": "Dashboard Kilit Butonu Kontrol"
+  },
+  {
+    "id": "EED-016",
+    "kod": "EED-016",
+    "aciklama": "Wiper System Kontrol Speed 1 / Speed 2"
+  },
+  {
+    "id": "EED-017",
+    "kod": "EED-017",
+    "aciklama": "Washer system control"
+  },
+  {
+    "id": "EED-018",
+    "kod": "EED-018",
+    "aciklama": "HVAC Blower Kotnrol"
+  },
+  {
+    "id": "EED-019",
+    "kod": "EED-019",
+    "aciklama": "HVAC PTC Isıtıcı"
+  },
+  {
+    "id": "EED-020",
+    "kod": "EED-020",
+    "aciklama": "HVAC A/C Kontrol"
+  },
+  {
+    "id": "EED-021",
+    "kod": "EED-021",
+    "aciklama": "HVAC Kanal Değişimi Kontrol"
+  },
+  {
+    "id": "EED-022",
+    "kod": "EED-022",
+    "aciklama": "Vites Geçiş Kontrolleri (P/R/N/D)"
+  },
+  {
+    "id": "EED-023",
+    "kod": "EED-023",
+    "aciklama": "Vakum Pompası Vakum Booster Kontrol"
+  },
+  {
+    "id": "EED-024",
+    "kod": "EED-024",
+    "aciklama": "Speaker Kontrol"
+  },
+  {
+    "id": "EED-025",
+    "kod": "EED-025",
+    "aciklama": "Araç Şarj Testi"
+  },
+  {
+    "id": "EED-026",
+    "kod": "EED-026",
+    "aciklama": "Araç Sürüş Testi"
+  },
+  {
+    "id": "EED-027",
+    "kod": "EED-027",
+    "aciklama": "Regenerative Brake Testi On Off"
+  },
+  {
+    "id": "EED-028",
+    "kod": "EED-028",
+    "aciklama": "ECO SPORT Mode Geçiş Kontrol"
+  },
+  {
+    "id": "ST-001",
+    "kod": "ST-001",
+    "aciklama": "N'de aracı ittir — Anormal direnç var mı?"
+  },
+  {
+    "id": "ST-002",
+    "kod": "ST-002",
+    "aciklama": "D'de gaz ver — Araç normal hızlanıyor mu? Sıkma hissi veya anormal se…"
+  },
+  {
+    "id": "ST-003",
+    "kod": "ST-003",
+    "aciklama": "R'de gaz ver — Geri viteste normal hızlanıyor mu? Sıkma hissi veya an…"
+  },
+  {
+    "id": "ST-004",
+    "kod": "ST-004",
+    "aciklama": "Dış aydınlatma — Kısa, uzun, selektör, park, sis, sol/sağ sinyal, dör…"
+  },
+  {
+    "id": "ST-005",
+    "kod": "ST-005",
+    "aciklama": "Korna — Ses seviyesi ve çalışması normal mi?"
+  },
+  {
+    "id": "ST-006",
+    "kod": "ST-006",
+    "aciklama": "Camlar — Tüm camlar açılıp kapanıyor mu? Takılma, yavaşlık veya ses v…"
+  },
+  {
+    "id": "ST-007",
+    "kod": "ST-007",
+    "aciklama": "Merkezi kilit & kapılar — İçeriden ve anahtarla dışarıdan kilitle-aç.…"
+  },
+  {
+    "id": "ST-008",
+    "kod": "ST-008",
+    "aciklama": "Aynalar & iç donanım — Aynalar, IP kapakları, emniyet kemeri kapaklar…"
+  },
+  {
+    "id": "ST-009",
+    "kod": "ST-009",
+    "aciklama": "Emniyet kemerleri — Tokalar çalışıyor mu? Kemer düzgün sarıyor mu? Uy…"
+  },
+  {
+    "id": "ST-010",
+    "kod": "ST-010",
+    "aciklama": "El freni (KRİTİK) — El frenini çek → hafif gaz ver → araç ilerlemeye …"
+  },
+  {
+    "id": "ST-011",
+    "kod": "ST-011",
+    "aciklama": "Vites seçimi — P/R/N/D geçişlerinde gecikme, yanlış gösterim veya kar…"
+  },
+  {
+    "id": "ST-012",
+    "kod": "ST-012",
+    "aciklama": "Ana ekran / menüler — Tüm menülerde düğmelere tek tek bas. Donma, sıf…"
+  },
+  {
+    "id": "ST-013",
+    "kod": "ST-013",
+    "aciklama": "Geri görüş kamerası — R'ye alınca görüntü geliyor mu? Görüntü temiz m…"
+  },
+  {
+    "id": "ST-014",
+    "kod": "ST-014",
+    "aciklama": "Klima & havalandırma — Fan 1-2-3, yüze/cama üfleme, iç hava dolaşımı,…"
+  },
+  {
+    "id": "ST-015",
+    "kod": "ST-015",
+    "aciklama": "Odometre — Sürüş öncesi değeri not et. Sürüş sonrası doğru sayıyor mu…"
+  },
+  {
+    "id": "ST-016",
+    "kod": "ST-016",
+    "aciklama": "Düşük hız — 500m, 0→30 km/s. Titreme, silkelenme, anormal ses, çekişt…"
+  },
+  {
+    "id": "ST-017",
+    "kod": "ST-017",
+    "aciklama": "Fren — 30→0 x5 (~300m). Her frenlemede sağa/sola ekstrem çekme var mı…"
+  },
+  {
+    "id": "ST-018",
+    "kod": "ST-018",
+    "aciklama": "Sürekli frenleme — Dur-kalk min. 20x (~600m). Pedal sertleşmesi/boşal…"
+  },
+  {
+    "id": "ST-019",
+    "kod": "ST-019",
+    "aciklama": "Fren — 50→0 x5 (~400m). Her frenlemede sağa/sola ekstrem çekme var mı…"
+  },
+  {
+    "id": "ST-020",
+    "kod": "ST-020",
+    "aciklama": "Fren — 90→0 / 80→0 / 70→0 (~500m). Her frenlemede sağa/sola ekstrem ç…"
+  },
+  {
+    "id": "ST-021",
+    "kod": "ST-021",
+    "aciklama": "Son hıza ulaşma (~600m) — ECO modda 90 km/s'ye ulaşıyor mu? SPORT mod…"
+  },
+  {
+    "id": "ST-022",
+    "kod": "ST-022",
+    "aciklama": "Yokuş çıkış + iniş (~400m) — Çıkışta geri kaçırma, çekiş düşmesi var …"
+  },
+  {
+    "id": "ST-023",
+    "kod": "ST-023",
+    "aciklama": "Yokuş el freni (KRİTİK) — Yokuşta en az 6 kez kaydır-tut. El freni çe…"
+  },
+  {
+    "id": "ST-024",
+    "kod": "ST-024",
+    "aciklama": "N'de yokuş fren testi (~100m) — Yokuş aşağı N'de fren yap, bırak. Ara…"
+  },
+  {
+    "id": "ST-025",
+    "kod": "ST-025",
+    "aciklama": "Düşük hız fren genel — 30→0 testlerinde tutarlı performans sağlandı m…"
+  },
+  {
+    "id": "ST-026",
+    "kod": "ST-026",
+    "aciklama": "Orta hız fren genel — 50→0 testlerinde tutarlı performans sağlandı mı?"
+  },
+  {
+    "id": "ST-027",
+    "kod": "ST-027",
+    "aciklama": "Yüksek hız fren genel — 90/80/70→0 testlerinde tutarlı performans sağ…"
+  },
+  {
+    "id": "ST-028",
+    "kod": "ST-028",
+    "aciklama": "FRENLERDE SIKMA VAR MI? (KRİTİK) — Anormal direnç, tek taraflı ısınma…"
+  },
+  {
+    "id": "ST-029",
+    "kod": "ST-029",
+    "aciklama": "Nihai Fren Onayı — Tüm fren testleri tamamlandı, anormal bulgu yok mu?"
+  },
+  {
+    "id": "ST-030",
+    "kod": "ST-030",
+    "aciklama": "Rot ayarı — Düz/eğimsiz yolda direksiyonu bırak. Araç sola veya sağa …"
+  },
+  {
+    "id": "ST-031",
+    "kod": "ST-031",
+    "aciklama": "Direksiyon merkezi — Düz gidişte direksiyon tam ortada mı? Belirgin s…"
+  },
+  {
+    "id": "ST-032",
+    "kod": "ST-032",
+    "aciklama": "Yüksek hızda kararlılık — 70-90 km/s'de araç düz gidiyor mu? Çekme ve…"
+  },
+  {
+    "id": "ST-033",
+    "kod": "ST-033",
+    "aciklama": "Sol ön disk — Elini yaklaştır (dokunma). Diğer disklere kıyasla belir…"
+  },
+  {
+    "id": "ST-034",
+    "kod": "ST-034",
+    "aciklama": "Sağ ön disk — Aynı kontrol. Belirgin şekilde sıcak mı?"
+  },
+  {
+    "id": "ST-035",
+    "kod": "ST-035",
+    "aciklama": "Sol arka disk — Aynı kontrol. Belirgin şekilde sıcak mı?"
+  },
+  {
+    "id": "ST-036",
+    "kod": "ST-036",
+    "aciklama": "Sağ arka disk — Aynı kontrol. Belirgin şekilde sıcak mı?"
+  },
+  {
+    "id": "ST-037",
+    "kod": "ST-037",
+    "aciklama": "N'de aracı ittir — Soğuk teste kıyasla artan direnç var mı? Isınma il…"
+  },
+  {
+    "id": "ST-038",
+    "kod": "ST-038",
+    "aciklama": "Kapı / Kaput ayarı — Görsel kontrol. Fotoğraf ilet."
+  },
+  {
+    "id": "ST-039",
+    "kod": "ST-039",
+    "aciklama": "Boya kalitesi — Görsel kontrol. Fotoğraf ilet."
+  },
+  {
+    "id": "ST-040",
+    "kod": "ST-040",
+    "aciklama": "Trim & Bagaj — İç trim, dış trim düzgün mü? Bagaj yüksekliği doğru mu?"
+  },
+  {
+    "id": "ST-041",
+    "kod": "ST-041",
+    "aciklama": "Tam dönüş kontrolü — Düşük hızda tam sağ/sol manevra. Sürtme, vuruntu…"
+  },
+  {
+    "id": "ST-042",
+    "kod": "ST-042",
+    "aciklama": "DTC / Diyagnostik tarama — Aktif veya geçmiş hata varsa kayıt altına …"
+  },
+  {
+    "id": "ST-043",
+    "kod": "ST-043",
+    "aciklama": "Mühendis Nihai Onayı"
+  },
+  {
+    "id": "FK-001",
+    "kod": "FK-001",
+    "aciklama": "Şasi ve seri numarası okunaklı ve doğru"
+  },
+  {
+    "id": "FK-002",
+    "kod": "FK-002",
+    "aciklama": "Model ve versiyon etiketi doğru"
+  },
+  {
+    "id": "FK-003",
+    "kod": "FK-003",
+    "aciklama": "Sevkiyat evrakları, irsaliye ve teslim formu hazır"
+  },
+  {
+    "id": "FK-004",
+    "kod": "FK-004",
+    "aciklama": "Kullanım kılavuzu ve garanti dokümanı mevcut"
+  },
+  {
+    "id": "FK-005",
+    "kod": "FK-005",
+    "aciklama": "Anahtar, uzaktan kumanda ve aksesuar seti tam"
+  },
+  {
+    "id": "FK-006",
+    "kod": "FK-006",
+    "aciklama": "Boya yüzeyi homojen, portakal kabuğu, akma ve kabarcık yok"
+  },
+  {
+    "id": "FK-007",
+    "kod": "FK-007",
+    "aciklama": "Çizik, göçük ve deformasyon yok"
+  },
+  {
+    "id": "FK-008",
+    "kod": "FK-008",
+    "aciklama": "Keskin kenar ve çapak yok"
+  },
+  {
+    "id": "FK-009",
+    "kod": "FK-009",
+    "aciklama": "Panel boşlukları dengeli ve simetrik"
+  },
+  {
+    "id": "FK-010",
+    "kod": "FK-010",
+    "aciklama": "Logolar ve etiketler düzgün yapışmış ve hizalı"
+  },
+  {
+    "id": "FK-011",
+    "kod": "FK-011",
+    "aciklama": "Cam ve pleksi yüzeylerde çatlak veya kırık yok"
+  },
+  {
+    "id": "FK-012",
+    "kod": "FK-012",
+    "aciklama": "Silecekler ve cam suyu sistemi tam fonksiyonlu çalışıyor"
+  },
+  {
+    "id": "FK-013",
+    "kod": "FK-013",
+    "aciklama": "Aynalar sorunsuz ayarlanabiliyor"
+  },
+  {
+    "id": "FK-014",
+    "kod": "FK-014",
+    "aciklama": "Far konumlandırması"
+  },
+  {
+    "id": "FK-015",
+    "kod": "FK-015",
+    "aciklama": "Kapılar düzgün kapanıyor ve açılıyor"
+  },
+  {
+    "id": "FK-016",
+    "kod": "FK-016",
+    "aciklama": "Cam açma ve kapama mekanizmaları sorunsuz çalışıyor"
+  },
+  {
+    "id": "FK-017",
+    "kod": "FK-017",
+    "aciklama": "Kapı menteşe bağlantıları sağlam ve gevşeklik yok"
+  },
+  {
+    "id": "FK-018",
+    "kod": "FK-018",
+    "aciklama": "Kapı kilit mekanizması çalışıyor"
+  },
+  {
+    "id": "FK-019",
+    "kod": "FK-019",
+    "aciklama": "Kapı fitilleri düzgün ve kopuk değil"
+  },
+  {
+    "id": "FK-020",
+    "kod": "FK-020",
+    "aciklama": "Kapı boşluk ve hiza uyumu standartlar dahilinde"
+  },
+  {
+    "id": "FK-021",
+    "kod": "FK-021",
+    "aciklama": "Koltuklar sabit ve sağlam"
+  },
+  {
+    "id": "FK-022",
+    "kod": "FK-022",
+    "aciklama": "Emniyet kemerleri mevcut ve mekanizması çalışır durumda"
+  },
+  {
+    "id": "FK-023",
+    "kod": "FK-023",
+    "aciklama": "Trim parçalarında kırık ve çatlak yok"
+  },
+  {
+    "id": "FK-024",
+    "kod": "FK-024",
+    "aciklama": "Keskin kenar ve dışarı çıkan vida yok"
+  },
+  {
+    "id": "FK-025",
+    "kod": "FK-025",
+    "aciklama": "Klima ve havalandırma sistemi fonksiyonel çalışıyor"
+  },
+  {
+    "id": "FK-026",
+    "kod": "FK-026",
+    "aciklama": "Multimedya ve bilgi ekranları sorunsuz çalışıyor"
+  },
+  {
+    "id": "FK-027",
+    "kod": "FK-027",
+    "aciklama": "Pedallar, kollar ve mandallar serbest hareket ediyor"
+  },
+  {
+    "id": "FK-028",
+    "kod": "FK-028",
+    "aciklama": "Tekerlek bijonları sabit ve gevşeklik yok"
+  },
+  {
+    "id": "FK-029",
+    "kod": "FK-029",
+    "aciklama": "Lastiklerde hasar yok ve basınç seviyeleri uygun"
+  },
+  {
+    "id": "FK-030",
+    "kod": "FK-030",
+    "aciklama": "Süspansiyon bağlantılarında gevşeklik yok"
+  },
+  {
+    "id": "FK-031",
+    "kod": "FK-031",
+    "aciklama": "Direksiyon boşluğu standart limitler dahilinde"
+  },
+  {
+    "id": "FK-032",
+    "kod": "FK-032",
+    "aciklama": "Fren sistemi statik olarak çalışıyor"
+  },
+  {
+    "id": "FK-033",
+    "kod": "FK-033",
+    "aciklama": "Fren hortum ve hatlarında sıvı kaçağı yok"
+  },
+  {
+    "id": "FK-034",
+    "kod": "FK-034",
+    "aciklama": "Alt takımda sürtme ve temas izi yok"
+  },
+  {
+    "id": "FK-035",
+    "kod": "FK-035",
+    "aciklama": "Kontak ve ana güç sistemi çalışıyor"
+  },
+  {
+    "id": "FK-036",
+    "kod": "FK-036",
+    "aciklama": "Kısa ve uzun farlar çalışıyor"
+  },
+  {
+    "id": "FK-037",
+    "kod": "FK-037",
+    "aciklama": "Sağ ve sol sinyaller çalışıyor"
+  },
+  {
+    "id": "FK-038",
+    "kod": "FK-038",
+    "aciklama": "Stop lambaları çalışıyor"
+  },
+  {
+    "id": "FK-039",
+    "kod": "FK-039",
+    "aciklama": "Geri vites ikaz sistemi çalışıyor"
+  },
+  {
+    "id": "FK-040",
+    "kod": "FK-040",
+    "aciklama": "Korna ve dış uyarı sesi çalışıyor"
+  },
+  {
+    "id": "FK-041",
+    "kod": "FK-041",
+    "aciklama": "Gösterge paneli uyarı ışıkları eksiksiz çalışıyor"
+  },
+  {
+    "id": "FK-042",
+    "kod": "FK-042",
+    "aciklama": "Şarj soketi ve koruyucu kapağı sağlam"
+  },
+  {
+    "id": "FK-043",
+    "kod": "FK-043",
+    "aciklama": "İleri ve geri hareket komutu doğru"
+  },
+  {
+    "id": "FK-044",
+    "kod": "FK-044",
+    "aciklama": "Hızlanma tepkisi standartlara uygun"
+  },
+  {
+    "id": "FK-045",
+    "kod": "FK-045",
+    "aciklama": "Rejeneratif ve elektronik frenleme normal"
+  },
+  {
+    "id": "FK-046",
+    "kod": "FK-046",
+    "aciklama": "Park freni sistemi çalışıyor"
+  },
+  {
+    "id": "FK-047",
+    "kod": "FK-047",
+    "aciklama": "Düz yolda doğrusal ilerleme sağlanıyor"
+  },
+  {
+    "id": "FK-048",
+    "kod": "FK-048",
+    "aciklama": "Frenleme sırasında araca sapma etkisi yok"
+  },
+  {
+    "id": "FK-049",
+    "kod": "FK-049",
+    "aciklama": "Dönüşlerde anormal mekanik ses yok"
+  },
+  {
+    "id": "FK-050",
+    "kod": "FK-050",
+    "aciklama": "Titreşim ve rezonans değerleri standartlar dahilinde"
+  },
+  {
+    "id": "FK-051",
+    "kod": "FK-051",
+    "aciklama": "Sürüş sırasında panelde uyarı veya arıza ışığı yanmıyor"
+  },
+  {
+    "id": "FK-052",
+    "kod": "FK-052",
+    "aciklama": "Araç iç ve dış temizliği sevk standartlarına uygun"
+  },
+  {
+    "id": "FK-053",
+    "kod": "FK-053",
+    "aciklama": "Koruyucu ambalaj ve kaplama doğru uygulanmış"
+  },
+  {
+    "id": "FK-054",
+    "kod": "FK-054",
+    "aciklama": "Sevkiyat etiketi ve yönlendirme işaretleri uygun"
+  },
+  {
+    "id": "FK-055",
+    "kod": "FK-055",
+    "aciklama": "Şarj seviyesi son kullanıcı teslimatı için yeterli seviyede"
+  },
+  {
+    "id": "FK-056",
+    "kod": "FK-056",
+    "aciklama": "Odo Kontrol"
+  }
+]
